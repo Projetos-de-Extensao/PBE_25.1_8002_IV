@@ -14,8 +14,11 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| xx/xxxxxx  |  Vitor Oliveira |
+| 202401000108  |  Pedro Mynssen |
+| xx/xxxxxx  |  Bernardo Ottan |
+| xx/xxxxxx  |  Eduardo Jacob |
+| xx/xxxxxx  |  Eduardo Andrade |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
