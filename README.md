@@ -1,15 +1,15 @@
 # TemplateBackEnd
 Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
+**!! Atenção: Renomeie o seu repositório para PBE_25.1_(NomeDoProjeto). !!** 
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2024.1_PFE1_ProjetoPandora!!**
+**!! *Não coloque os nomes dos alunos no título do repositório*.**
  
  (Apague essa seção)
 
 # NomedoProjeto
 
 **Número do Grupo**: IV<br>
-**Código da Disciplina**: FGA0208-T01<br>
+**Turma**: 800X<br>
 
 ## Alunos
 |Matrícula | Aluno |
