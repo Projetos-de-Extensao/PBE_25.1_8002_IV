@@ -1,15 +1,7 @@
-# TemplateBackEnd
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-**!! Atenção: Renomeie o seu repositório para PBE_25.1_8002_(NomeDoProjeto). !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*.**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# BackByte
 
 **Número do Grupo**: IV<br>
-**Turma**: 800X<br>
+**Turma**: 8002<br>
 
 ## Alunos
 |Matrícula | Aluno |
