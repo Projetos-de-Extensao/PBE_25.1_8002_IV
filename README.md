@@ -8,7 +8,7 @@
 | -- | -- |
 | xx/xxxxxx  |  Vitor Oliveira |
 | 202401000108  |  Pedro Mynssen |
-| xx/xxxxxx  |  Bernardo Ottan |
+| 202401500267  |  Bernardo Ottan |
 | xx/xxxxxx  |  Eduardo Jacob |
 | xx/xxxxxx  |  Eduardo Andrade |
 
