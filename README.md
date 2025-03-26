@@ -36,19 +36,19 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ##Pedido 5W2H
 
-What? (O quê?)
+##What? (O quê?)
 Implementação de um sistema de entrega de alimentos para a ilha.
-Why? (Por quê?)
+##Why? (Por quê?)
 Garantir o abastecimento regular de alimentos e atender às necessidades da população/localidade.
-Who? (Quem?) 
+##Who? (Quem?) 
 A equipe é formada por Bernardo Ottan, Eduardo Jacob, Pedro mynsen, Victor Oliveira, Eduardo
-Where? (Onde?)
+##Where? (Onde?)
 O trabalho será realizado na instituição IBMEC
-When? (Quando?)
+##When? (Quando?)
 Entregas programadas conforme demanda (diária, semanal, etc.).
-How? (Como?)
+##How? (Como?)
 Transporte marítimo com barcos apropriados, sistema de pedidos e planejamento de rotas eficientes.
-How much? (Quanto custa?)
+##How much? (Quanto custa?)
 Custos variáveis incluindo combustível, mão de obra, manutenção e taxas portuárias.
 
 
