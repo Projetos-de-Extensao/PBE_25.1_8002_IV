@@ -10,7 +10,7 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 ## Metodologia
 <p align = "justify">
-A equipe se reuniu para debater ideias gerais sobre o projeto por chamadas online, reuniões virtuais e mensagens no grupo do projeto. A discussão começou à tarde e terminou à noite, com Pedro Mynsen como moderador, direcionando a equipe com questões pré-elaboradas e transcrevendo as respostas para o documento.
+<b>Eduardo Jacob</b> A equipe se reuniu para debater ideias gerais sobre o projeto por chamadas online, reuniões virtuais e mensagens no grupo do projeto. A discussão começou à tarde e terminou à noite, com Pedro Mynsen como moderador, direcionando a equipe com questões pré-elaboradas e transcrevendo as respostas para o documento.
 </p>
  
 ## Brainstorm
