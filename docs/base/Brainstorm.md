@@ -10,7 +10,7 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 ## Metodologia
 <p align = "justify">
-A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .... e terminou..., onde o XXXX XXXX foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
+A equipe se reuniu para debater ideias gerais sobre o projeto via  , começou .... e terminou..., onde o XXXX XXXX foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
 </p>
  
 ## Brainstorm
@@ -22,16 +22,12 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
-</p>
+<b>Pedro Mynssen</b> O principal objetivo da aplicação é o levantamento de dados socioeconomicos importantes sobre a Ilha Primeira, para que esses dados possam ser abstraídos e utilizados na melhora da qualidade de vida dos moradores da ilha primeira
+ <b>XXXX</b> - Com a localização...
  
-<b>ZZZ</b> - A plataforma deve fornece...
+<b>YYYY</b> - O cliente...
  
-<b>YYYY</b> - O objetivo da aplicação é....
- 
-<b>WWWW</b> - O principal objetivo da aplicação é a...
- 
-<b>KKKK</b> - A plataforma deve gerenciar...
+<b>ZZZ</b> - O cliente...
 </p>
  
 ---
@@ -39,36 +35,15 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 2. Como será o processo para cadastrar um novo clientetorneio?
  
 <p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
+<b>XXXX</b> - Com a localização...
  
 <b>YYYY</b> - O cliente...
  
-<b>WWWW</b> - Com o usuário logado, ele deverá...
-
-<b>ZZZZ</b> - O cliente...
- 
-<b>KKK</b> - O cliente...
+<b>ZZZ</b> - O cliente...
  
 ---
- 
-### 3. Como será a forma de adicionar produtos?
- 
-<p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
-</p>
- 
-<p align = "justify">
-<b>YYYYY</b> - O produto tem...
-</p>
- 
-<b>ZZZZ</b> - O produto....
- 
-<b>XXXX</b> - O produto....
 
- 
----
- 
-### 4. Outras perguntas pertinentes ao contexto
+### 3. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
 <b>XXXX</b> - Com a localização...
@@ -78,19 +53,16 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 <b>ZZZ</b> - O cliente...
  
 ---
- 
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
-<p align = "justify">
-<b>XXX</b> - O cliente....
-</p>
- 
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
 
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
+ 
+ 
+### 5. Quais informações seriam interessante para o cliente?
+<p align = "justify">
+<b>XXXX</b> - Com a localização...
+ 
+<b>YYYY</b> - O cliente...
+ 
+<b>ZZZ</b> - O cliente...
    
 </p>
  
