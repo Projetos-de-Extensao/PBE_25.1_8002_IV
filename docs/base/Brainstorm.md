@@ -59,10 +59,10 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via  , começou ..
 ### 5. Quais informações seriam interessante para o cliente?
 <p align = "justify">
  <b>Eduardo jacob</b> 
- Dados geográficos e mapas interativos da Ilha Primeira.
- Pontos de interesse relevantes (postos de saúde, escolas, mercados, etc.).
- Comparação da situação da Ilha Primeira com outras regiões semelhantes.
- filtrar informações por diferentes categorias e parâmetros
+ - Dados geográficos e mapas interativos da Ilha Primeira.
+ - Pontos de interesse relevantes (postos de saúde, escolas, mercados, etc.).
+ - Comparação da situação da Ilha Primeira com outras regiões semelhantes.
+ - filtrar informações por diferentes categorias e parâmetros
 
 <b>XXXX</b> - Com a localização...
  
@@ -77,12 +77,12 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via  , começou ..
 
 |ID|Descrição|
 |----|-------------|
-|BS01| |O sistema deve permitir a visualização de mapas interativos da Ilha Primeira.|
-|BS02| |O sistema deve garantir que os dados sejam atualizados periodicamente.|
-|BS03| |	O sistema deve permitir a comparação da Ilha Primeira com outras regiões.|
-|BS04| |O sistema deve permitir que usuários filtrem informações por diferentes categorias e parâmetros.|
-|BS05| |O sistema deve permitir identificação de pontos de interesse |
-|BS06| | O sistema deve permitir que os usuários enviem feedbacks ou sugestões sobre as informações coletadas.|
+|BS01| O sistema deve permitir a visualização de mapas interativos da Ilha Primeira.|
+|BS02| O sistema deve garantir que os dados sejam atualizados periodicamente.|
+|BS03|	O sistema deve permitir a comparação da Ilha Primeira com outras regiões.|
+|BS04| O sistema deve permitir que usuários filtrem informações por diferentes categorias e parâmetros.|
+|BS05| O sistema deve permitir identificação de pontos de interesse |
+|BS06| O sistema deve permitir que os usuários enviem feedbacks ou sugestões sobre as informações coletadas.|
 |BS07| O cliente...|
 |BS08| O cliente...|
 |BS09| O cliente...|
