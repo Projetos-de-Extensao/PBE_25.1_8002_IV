@@ -59,10 +59,10 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via  , começou ..
 ### 5. Quais informações seriam interessante para o cliente?
 <p align = "justify">
  <b>Eduardo jacob</b> 
- - Dados geográficos e mapas interativos da Ilha Primeira.
- - Pontos de interesse relevantes (postos de saúde, escolas, mercados, etc.).
- - Comparação da situação da Ilha Primeira com outras regiões semelhantes.
- - filtrar informações por diferentes categorias e parâmetros
+ -- Dados geográficos e mapas interativos da Ilha Primeira.
+ -- Pontos de interesse relevantes (postos de saúde, escolas, mercados, etc.).
+ -- Comparação da situação da Ilha Primeira com outras regiões semelhantes.
+ -- filtrar informações por diferentes categorias e parâmetros
 
 <b>XXXX</b> - Com a localização...
  
