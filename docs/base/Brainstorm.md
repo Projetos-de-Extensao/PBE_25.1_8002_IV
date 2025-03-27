@@ -46,9 +46,12 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 ### 3. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
-<b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
+<b>Eduardo jACOB</b> 
+ -Como a localização geográfica da Ilha Primeira pode influenciar o acesso a serviços essenciais (saúde, educação, transporte)?
+
+ -De que maneira os dados coletados poderão ser utilizados para promover mudanças concretas na ilha?
+
+ -Quais informações socioeconômicas são mais relevantes para o cliente na análise da qualidade de vida na ilha?
  
 <b>ZZZ</b> - O cliente...
  
