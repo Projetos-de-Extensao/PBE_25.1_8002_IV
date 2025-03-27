@@ -34,7 +34,7 @@ Adicione 1 ou mais vídeos com a execução do projeto final.
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
-## Pedido 5W2H
+## 5W2H (é uma ferramenta que ajuda a organizar e executar ações com mais clareza. Usando sete perguntas-chave, ela torna os objetivos mais diretos e facilita a tomada de decisões no projeto.)
 
 ### What? (O quê?)
 Implementação de um sistema de entrega de alimentos para a ilha.
