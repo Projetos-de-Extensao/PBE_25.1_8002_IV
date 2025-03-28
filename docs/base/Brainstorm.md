@@ -57,6 +57,11 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 
  -Quais informações socioeconômicas são mais relevantes para o cliente na análise da qualidade de vida na ilha?
  
+<b>Vitor Oliveira</b> 
+-Como será feito o processo de coleta desses dados? Haverá algum tipo de interação com os moradores da Ilha Primeira?
+
+-A aplicação terá algum tipo de mecanismo para monitorar mudanças ao longo do tempo?
+ 
 <b>ZZZ</b> - O cliente...
  
 ---
