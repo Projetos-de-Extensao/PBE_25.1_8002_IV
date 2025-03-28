@@ -32,9 +32,11 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 ---
  
-### 2. Como será o processo para cadastrar um novo clientetorneio?
+### 2. Como será o processo para cadastrar um novo cliente?
  
 <p align = "justify">
+ <b>Eduardo Andrade</b>
+-Cadastro com as seguintes informações CPF,Endereço , nome , data de nascimento.
 <b>XXXX</b> - Com a localização...
  
 <b>YYYY</b> - O cliente...
@@ -59,7 +61,7 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 
  
  
-### 5. Quais informações seriam interessante para o cliente?
+### 4. Quais informações seriam interessante para o cliente?
 <p align = "justify">
  <b>Eduardo jacob</b> 
  # Dados geográficos e mapas interativos da Ilha Primeira.
