@@ -23,11 +23,6 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 <p align = "justify">
 <b>Pedro Mynssen</b> O principal objetivo da aplicação é o levantamento de dados socioeconomicos importantes sobre a Ilha Primeira, para que esses dados possam ser abstraídos e utilizados na melhora da qualidade de vida dos moradores da ilha primeira
- <b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
 </p>
  
 ---
@@ -37,13 +32,6 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 <p align = "justify">
  <b>Eduardo Andrade</b>
 -Cadastro com as seguintes informações CPF,Endereço , nome , data de nascimento.
-
- 
- <b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
  
 ---
 
@@ -62,7 +50,6 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 
 -A aplicação terá algum tipo de mecanismo para monitorar mudanças ao longo do tempo?
  
-<b>ZZZ</b> - O cliente...
  
 ---
 
@@ -76,11 +63,7 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  # Comparação da situação da Ilha Primeira com outras regiões semelhantes.
  # filtrar informações por diferentes categorias e parâmetros
 
-<b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
+
    
 </p>
  
