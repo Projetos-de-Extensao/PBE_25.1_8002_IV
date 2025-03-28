@@ -37,7 +37,9 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
 <p align = "justify">
  <b>Eduardo Andrade</b>
 -Cadastro com as seguintes informações CPF,Endereço , nome , data de nascimento.
-<b>XXXX</b> - Com a localização...
+
+ 
+ <b>XXXX</b> - Com a localização...
  
 <b>YYYY</b> - O cliente...
  
