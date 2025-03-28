@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  Vitor Oliveira |
+| 202402818406|  Vitor Oliveira |
 | 202401000108  |  Pedro Mynssen |
 | 202401500267  |  Bernardo Ottan |
 | xx/xxxxxx  |  Eduardo Jacob |
