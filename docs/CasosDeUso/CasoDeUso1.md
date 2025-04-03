@@ -15,4 +15,4 @@
     vii.Sistema emite comprovante digital
 * **Pós-condição**:
 i.Novo morador consta no banco de dados
-ii.Dados disponíveis para relatórios
+2.Dados disponíveis para relatórios
