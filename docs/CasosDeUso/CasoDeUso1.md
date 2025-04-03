@@ -5,11 +5,11 @@
 * **Fluxo Principal**:
     *  Agente seleciona "Novo Cadastro"
     *  Sistema exibe formulário com campos(Dados pessoais,endereço completo,dados socioeconômicos) 
-    *  gente preenche todos os campos obrigatórios/
-    *  Agente confirma cadastro/
-    *  Sistema valida CPF e dados/
-    *  Sistema armazena cadastro/
-    *  Sistema emite comprovante digital/
+    *  gente preenche todos os campos obrigatórios
+    *  Agente confirma cadastro
+    *  Sistema valida CPF e dados
+    *  Sistema armazena cadastro
+    *  Sistema emite comprovante digital
 * **Pós-condição**:
-    *  Novo morador consta no banco de dados/
+    *  Novo morador consta no banco de dados
     *  Dados disponíveis para relatórios
