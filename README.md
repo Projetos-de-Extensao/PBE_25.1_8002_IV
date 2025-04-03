@@ -34,27 +34,14 @@ Adicione 1 ou mais vídeos com a execução do projeto final.
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
-## 5W2H (é uma ferramenta que ajuda a organizar e executar ações com mais clareza. Usando sete perguntas-chave, ela torna os objetivos mais diretos e facilita a tomada de decisões no projeto.)
+## Pedido 5W2H 
 
-### What? (O quê?)
-Implementação de um sistema de entrega de alimentos para a ilha.
-
-### Why? (Por quê?)
-Garantir o abastecimento regular de alimentos e atender às necessidades da população/localidade.
-
-### Who? (Quem?) 
-A equipe é formada por Bernardo Ottan, Eduardo Jacob, Pedro mynsen, Victor Oliveira, Eduardo
-
-### Where? (Onde?)
-O trabalho será realizado na instituição IBMEC
-
-### When? (Quando?)
-Entregas programadas conforme demanda (diária, semanal, etc.).
-
-### How? (Como?)
-Transporte marítimo com barcos apropriados, sistema de pedidos e planejamento de rotas eficientes.
-
-### How much? (Quanto custa?)
-Custos variáveis incluindo combustível, mão de obra, manutenção e taxas portuárias.
-
-
+|Questão|Resposta|
+|-------|--------|
+|What?(O que deverá ser feito?)|Aplicativo Web que auxilie a coleta de dados sobre a Ilha Primeira|
+|Why? (Por que isso será feito?)|Para auxiliar e trazer uma melhora na qualidade de vida dos moradores |
+|Where? (Onde será feito?)|O trabalho será realizado na Instituição IBMEC |
+|When? (Quando será feito?)|Durante o primeiro semestre de 2025 |
+|Who? (Quem irá fazer?)|A equipe é formada pelos alunos Bernardo Ottan, Eduardo Andrade, Eduardo Jacob, Pedro Mynssen, Vitor Oliveira|
+|How? (Como será feito?)|Utilizando metodologia RUP/UP e ferramentas como o python e django como linguagens, mkdocs para documentação, git e github para versionamento do código.|
+|How much? (Quanto custará?)|O custo do projeto será o tempo e esforço para o desenvolvimento da aplicação|
