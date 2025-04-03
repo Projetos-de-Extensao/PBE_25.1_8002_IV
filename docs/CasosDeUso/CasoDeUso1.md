@@ -5,7 +5,7 @@
 * **Fluxo Principal**:
     *  Agente seleciona "Novo Cadastro"
     *  Sistema exibe formulário com campos(Dados pessoais,endereço completo,dados socioeconômicos) 
-    *  gente preenche todos os campos obrigatórios
+    *  Agente preenche todos os campos obrigatórios
     *  Agente confirma cadastro
     *  Sistema valida CPF e dados
     *  Sistema armazena cadastro
