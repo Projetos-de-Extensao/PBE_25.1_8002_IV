@@ -3,11 +3,14 @@
 * **Descrição**:Atualizar informações cadastrais (mudança de endereço, nova renda).
 * **Pré-condições**:
    * Morador já estar cadastrado.
+   * Permissões de edição.
         
 * **Fluxo Principal**:
    *  O agente busca o morador por CPF ou nome.
    *  Edita os campos necessários.
-   *  O sistema registra a alteração com data/hora.
+   *  Registra motivo da atualização.
+   *  Sistema armazena nova versão.
 * **Pós-condição**:
 *  Banco de Dados Atualizado
-*  Histórico de Alterações:
+*  Data/hora da modificação registrada
+*  Histórico de Alterações
