@@ -38,6 +38,8 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ## Pedido 5W2H
 
+|Questão|Resposta|
+|-------|--------|
 |What?(O que deverá ser feito?)|Aplicativo Web que auxilie a coleta de dados sobre a Ilha Primeira|
 |Why? (Por que isso será feito?)|Para auxiliar e trazer uma melhora na qualidade de vida dos moradores |
 |Where? (Onde será feito?)|O trabalho será realizado na Instituição IBMEC |
@@ -45,5 +47,3 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 |Who? (Quem irá fazer?)|A equipe é formada pelos alunos Bernardo Ottan, Eduardo Andrade, Eduardo Jacob, Pedro Mynssen, Vitor Oliveira|
 |How? (Como será feito?)|Utilizando metodologia RUP/UP e ferramentas como o python e django como linguagens, mkdocs para documentação, git e github para versionamento do código.|
 |How much? (Quanto custará?)|O custo do projeto será o tempo e esforço para o desenvolvimento da aplicação|
-
-
