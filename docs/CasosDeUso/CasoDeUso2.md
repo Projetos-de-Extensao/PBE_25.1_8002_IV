@@ -7,7 +7,7 @@
         
 * **Fluxo Principal**:
    *  Pesquisador seleciona intervalo temporal
-   *  Escolhe indicadores para comparação(Acesso a saneamento, Nível educacional, Renda média
+   *  Escolhe indicadores para comparação(Acesso a saneamento, Nível educacional, Renda média)
    *  Destaca melhorias/retrocessos
 * **Pós-condição**:
    *  Análise incorporada ao acervo

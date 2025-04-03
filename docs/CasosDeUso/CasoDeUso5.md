@@ -1,6 +1,6 @@
 ### Caso de Uso 2: Registrar Problema de Infraestrutura
 * **Atores**: Morador, Agente comunitário
-* **Descrição**: Cadastra ocorrências de problemas públicos (esgoto, iluminação etc.)
+* **Descrição**: Cadastra ocorrências de problemas públicos (esgoto, iluminação)
 * **Pré-condições**:
    *  Localização geográfica definida
    *  Usuário autenticado (para moradores)

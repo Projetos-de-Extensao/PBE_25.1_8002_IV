@@ -1,7 +1,7 @@
 ### Caso de Uso 1:Cadastrar Morador
 * **Atores**: Agente de Campo
 * **Descrição**:Permite o cadastro de moradores da Ilha Primeira com seus dados socioeconômicos
-* **Pré-condições**: Agente deve estar autenticado no sistema.
+* **Pré-condições**: Agente deve estar autenticado no sistema
 * **Fluxo Principal**:
     *  Agente seleciona "Novo Cadastro"
     *  Sistema exibe formulário com campos(Dados pessoais,endereço completo,dados socioeconômicos) 
