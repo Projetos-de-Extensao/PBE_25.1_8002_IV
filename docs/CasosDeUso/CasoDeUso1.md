@@ -6,8 +6,11 @@
     1.Agente seleciona "Novo Cadastro"
     2.Sistema exibe formulário com campos:
     -Dados pessoais (Nome, CPF, Data Nascimento)
+  
     -Endereço completo
+  
     -Dados socioeconômicos (renda, acesso a serviços)
+  
     3.Agente preenche todos os campos obrigatórios
     4.Agente confirma cadastro
     5.Sistema valida CPF e dados
