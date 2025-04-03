@@ -36,8 +36,6 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ## 5W2H (é uma ferramenta que ajuda a organizar e executar ações com mais clareza. Usando sete perguntas-chave, ela torna os objetivos mais diretos e facilita a tomada de decisões no projeto.)
 
-## Pedido 5W2H
-
 |Questão|Resposta|
 |-------|--------|
 |What?(O que deverá ser feito?)|Aplicativo Web que auxilie a coleta de dados sobre a Ilha Primeira|
