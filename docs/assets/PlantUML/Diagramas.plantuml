@@ -53,5 +53,6 @@ Visitante_Site --|> Cliente
 Administradores --|> Forms
 Forms --|> ReCenso
 
-
 @enduml
+
+
