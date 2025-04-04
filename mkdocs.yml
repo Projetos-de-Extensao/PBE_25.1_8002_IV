@@ -1,17 +1,2 @@
 site_name: Documentação BackByte
-theme:
-
-
-  name: material
-
-
-  palette:
-
-
-    scheme: slate
-
-
-    primary: cyan
-
-
-    accent: dark blue
+color_mode: dark
