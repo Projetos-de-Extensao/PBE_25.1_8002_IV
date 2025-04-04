@@ -15,3 +15,34 @@
 }
 @endsalt
 
+@startsalt
+{+
+  👤​️ Bem vindo <NomeDoAdm>!   
+
+
+
+[ 🆕 Criar Novo Perfil   ]  
+[ 📋 Acessar Dashboard   ]  
+[ ✏️ Alterar formulários ]  
+[ 🚪 Sa i r              ]  
+}
+@enduml
+
+@startsalt
+{
+{+
+  📝 Formulário do Censo
+  Nome: | "_______"  
+  Idade: | "_______"  
+  Espécie de domicilio: | "_______"   
+  Tipo de Domicílio: | ^selecione^
+  Quantidade de Moradores: | "_______" 
+  Lista de Moradores: | "_______" 
+  Renda Mensal: | ^selecione^
+}
+
+
+[ 📤 Enviar ]
+}
+@enduml
+

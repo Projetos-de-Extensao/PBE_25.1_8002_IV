@@ -27,4 +27,3 @@ Algumas informações não são detalhadas pelo IBGE e podem exigir pesquisas ex
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
 | 21/03/25 | 1.0 | Criação do documento | Pedro Mynssen | 
-| 09/09/20 | 2.0 | Adicionada visão produto | xxxx xxxx | 

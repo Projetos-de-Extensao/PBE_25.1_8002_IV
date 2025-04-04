@@ -2,8 +2,6 @@
 id: prototipo
 title: Protótipo
 ---
-
-# Não precisa entregar para a AP1
 ## Introdução
  
 <p align = "justify">
@@ -19,52 +17,22 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ## Protótipo de alta fidelidade
  
 ### Versão 1.0
+
+### Tela Inicial!
+![alt text](../assets/PlantUML/image-2.png)
  
-### Tela Login
-[![Prototipo 1](../assets/prototipo/prototipo_1.png)](../assets/prototipo/prototipo_1.png)
+### Tela de Login ADM
  
-### Tela Cadastro 1
- 
-[![Prototipo 2](../assets/prototipo/prototipo_2.png)](../assets/prototipo/prototipo_2.png)
- 
-### Tela Cadastro 2
- 
-[![Prototipo 3](../assets/prototipo/prototipo_3.png)](../assets/prototipo/prototipo_3.png)
- 
-### Tela Esqueceu Senha
- 
-[![Prototipo 4](../assets/prototipo/prototipo_4.png)](../assets/prototipo/prototipo_4.png)
- 
-### Tela do Feed
-[![Prototipo 5](../assets/prototipo/prototipo_5.png)](../assets/prototipo/prototipo_5.png)
- 
-### Tela Feed com configurações
-[![Prototipo 6](../assets/prototipo/prototipo_6.png)](../assets/prototipo/prototipo_6.png)
- 
-### Tela Perfil
-[![Prototipo 7](../assets/prototipo/prototipo_7.png)](../assets/prototipo/prototipo_7.png)
- 
-### Tela Cadastrar torneio 1
-[![Prototipo 8](../assets/prototipo/prototipo_8.png)](../assets/prototipo/prototipo_8.png)
- 
-### Tela Cadastrar torneio 2
- 
-[![Prototipo 9](../assets/prototipo/prototipo_9.png)](../assets/prototipo/prototipo_9.png)
- 
-### Tela Cadastrar torneio 3
-[![Prototipo 10](../assets/prototipo/prototipo_10.png)](../assets/prototipo/prototipo_10.png)
- 
-### Tela Cadastrar torneio 4
-[![Prototipo 11](../assets/prototipo/prototipo_11.png)](../assets/prototipo/prototipo_11.png)
- 
-### Tela com meus torneios
-[![Prototipo 12](../assets/prototipo/prototipo_12.png)](../assets/prototipo/prototipo_12.png)
- 
-### Tela de inscrição em torneio
-[![Prototipo 13](../assets/prototipo/prototipo_13.png)](../assets/prototipo/prototipo_13.png)
+![alt text](../assets/PlantUML/image-3.png)
+
+### Tela Formulário
+
+![alt text](../assets/PlantUML/image-4.png)
+
+
 
 <p align = "justify">
-Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">Material Design Color Tool</a>  para auxiliar na criação da paleta de cores do aplicativo, definimos as cores base do aplicativo mas as cores definidas para as telas 12 e 13 ainda não foram decididas.
+Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">PlantUML</a>  para auxiliar na criação de um wireframe que nos ajudasse a criar representações visuais de diferentes áreas de nosso web app.
 </p>
  
 ### Versão 2.0
@@ -127,7 +95,4 @@ A partir da elaboração do protótipo foi possível ter uma noção inicial da 
  
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 07/09/20 | 1.0 | Criação do documento | Lucas Alexandre e Matheus Estanislau  |
-| 07/09/20 | 1.1 | Adicionado as imagens do protótipo | Lucas Alexandre e Matheus Estanislau  |
-| 07/09/20 | 1.2 | Adicionado conclusão e referências  | Lucas Alexandre e Matheus Estanislau  |
-| 26/10/20 | 2.0 | Adicionada a versão 2.0 do protótipo| João Pedro, Lucas Alexandre, Matheus Estanislau, Moacir Mascarenha e Renan Cristyan|
+| 03/04/25 | 1.0 | Criação do documento |Pedro Mynssen e Eduardo Andrade     |
