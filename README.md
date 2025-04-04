@@ -10,7 +10,7 @@
 | 202401000108  |  Pedro Mynssen |
 | 202401500267  |  Bernardo Ottan |
 | 202402824058 |  Eduardo Jacob |
-| xx/xxxxxx  |  Eduardo Andrade |
+| 202307539767  |  Eduardo Andrade |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
