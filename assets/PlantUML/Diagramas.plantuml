@@ -1,0 +1,58 @@
+@startuml FastDelivery_DiagramaClasses
+
+interface ReCenso  {
+        +DensidadeDemográfica
+    +População
+    +Mortalidade
+    +NívelDeInstrução
+    +Gênero
+    +CaracterísticasDomicílios
+    +PirâmideEtária
+}
+
+class Cliente{
+    + acessarCenso()  
+}
+
+class Morador{
+    - cpf: string
+    - senha: string  
+}
+
+class Visitante_Site{
+
+}
+
+package Administradores {
+class Adm_Site {
+    +criarPerfil()
+    +alterarDados()
+    +AcessarForm()
+}
+
+class ReCenseador{
+    +criarPerfil()
+    +alterarDados()
+    +AcessarForm()
+}
+}
+
+class Forms {
+    #EspécieDeDomicílio
+    #TipoDeDomicílio
+    #QuantidadeDeMoradores
+    #FaixaEtáriaMoradores
+    #ListaDeMoradores
+    #IdentificaçãoÉtnico-Racial
+    
+}
+
+Cliente --|> ReCenso
+Morador --|> Cliente
+Visitante_Site --|> Cliente 
+Administradores --|> Forms
+Forms --|> ReCenso
+
+@enduml
+
+

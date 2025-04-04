@@ -1,0 +1,48 @@
+@startsalt
+{
+  ReCenso da BackByte 📊 
+{T#
++Densidade Demográfica 👥       | 4,45 hab/km³   
++ População   👤     | 7.13 mil habitantes 
++ Mortalidade  ☠️  | 7,5 
++ Nivel de Instrução | Ensino médio completo
++ Taxa de Natalidade | 1,7
+}
+
+[Gráficos] 
+[Estatísticas 📈]
+..
+}
+@endsalt
+
+@startsalt
+{+
+  👤​️ Bem vindo <NomeDoAdm>!   
+
+
+
+[ 🆕 Criar Novo Perfil   ]  
+[ 📋 Acessar Dashboard   ]  
+[ ✏️ Alterar formulários ]  
+[ 🚪 Sa i r              ]  
+}
+@enduml
+
+@startsalt
+{
+{+
+  📝 Formulário do Censo
+  Nome: | "_______"  
+  Idade: | "_______"  
+  Espécie de domicilio: | "_______"   
+  Tipo de Domicílio: | ^selecione^
+  Quantidade de Moradores: | "_______" 
+  Lista de Moradores: | "_______" 
+  Renda Mensal: | ^selecione^
+}
+
+
+[ 📤 Enviar ]
+}
+@enduml
+
