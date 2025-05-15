@@ -5,3 +5,26 @@ theme:
     scheme: slate  # modo escuro
     primary: cyan
     accent: blue
+
+nav:
+  - Início: index.md
+  - Base:
+      - Documento de Visão: base/documento_de_visao.md
+      - Entrevista: base/entrevista.md
+      - Pesquisa: base/pesquisa.md
+      - Brainstorm: base/Brainstorm.md
+      - Mapa Mental: base/mapa_mental.md
+      - Metodologia: base/metodologia.md
+      - Diagrama: base/diagrama.md
+      - Protótipo Alta Fidelidade: base/prototipo_alta_fidelidade.md
+  - Casos de Uso:
+      - CasoDeUso1: CasosDeUso/CasoDeUso1.md
+      - CasoDeUso2: CasosDeUso/CasoDeUso2.md
+      - CasoDeUso3: CasosDeUso/CasoDeUso3.md
+      - CasoDeUso4: CasosDeUso/CasoDeUso4.md
+  - Interação:
+      - Interação 1: interacao/interacao1.md
+  - Modelagem:
+      - DAS: modelagem/das.md
+      - Diagrama de Classes: modelagem/diagrama_de_classes.md
+      - MDE: modelagem/mde.mdpython -m mkdocs gh-deploy
