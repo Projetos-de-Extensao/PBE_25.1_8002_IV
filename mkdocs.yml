@@ -1,2 +1,7 @@
-site_name: Documentação BackByte
-color_mode: dark
+site_name: Documentação Grupo BackByte
+theme:
+  name: material
+  palette:
+    scheme: slate  # modo escuro
+    primary: cyan
+    accent: blue
