@@ -24,7 +24,8 @@ Para a criação da primeira versão do diagrama de classes, a equipe utilizou o
 
 
 
-![![Diagrama de Classes](../assets/diagrama_de_classes/diagrama_de_classes.png)](../assets/diagrama_de_classes/diagrama_de_classes.png)
+![Diagrama De Classes](https://files.catbox.moe/166utz.png)
+
 
 ### Versão 1.1
 ![![Diagrama de Classes](../assets/diagrama_de_classes/diagrama_de_classes_1.1.png)](../assets/diagrama_de_classes/diagrama_de_classes_1.1.png)
@@ -62,5 +63,5 @@ Através do diagrama de classes, foi possível representar a estrutura do sistem
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 21/09/20 | 1.0 | Criação do documento | |
+| 21/09/20 | 1.0 | Criação do documento |Eduardo A, Eduardo J |
 | 26/10/20 | 2.0 | Adicionado diagrama de classes 2.0 | |
