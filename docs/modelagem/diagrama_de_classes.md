@@ -12,9 +12,7 @@ O diagrama de classes UML é um diagrama que mostra a estrutura do sistema desen
 ## Metodologia
 
 <p align = "justify">
-A equipe se reuniu por .... e realizou um brainstorm onde foram dicutidos os tópicos chaves e a arquitetura geral dos sistemas, e assim criamos...
-
-Para a criação da primeira versão do diagrama de classes, a equipe utilizou o programa... Além disso, foi utilizado... para videoconferência e Visual Studio Code / Live Share para elaboração da documentação.
+Para a primeira geração do Diagrama de Classes foi Utilizado o PlantUML e o Visual Studio Code para elaborar o documento.A equipe se reuniu por chamada de voz para discutir o diagrama.
 </p>
 
 # ENTREGUE NO PRÓXIMO INCREMENTO
