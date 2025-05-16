@@ -1,17 +1,1 @@
 site_name: Documentação Grupo BackByte
-theme:
-
-
-  name: mkdocs
-
-
-  palette:
-
-
-    scheme: slate
-
-
-    primary: cyan
-
-
-    accent: dark blue
