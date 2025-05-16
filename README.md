@@ -11,6 +11,7 @@
 | 202401500267  |  Bernardo Ottan |
 | 202402824058 |  Eduardo Jacob |
 | 202307539767  |  Eduardo Andrade |
+|202051692553| Augusto Amorim |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
