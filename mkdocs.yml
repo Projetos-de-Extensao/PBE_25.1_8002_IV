@@ -1,36 +1,17 @@
 site_name: Documentação Grupo BackByte
 theme:
-  name: material
+
+
+  name: mkdocs
+
+
   palette:
-    scheme: slate  # modo escuro
+
+
+    scheme: slate
+
+
     primary: cyan
-    accent: blue
 
-nav:
-  - Início: index.md
-  - Base:
-      - Documento de Visão: base/documento_de_visao.md
-      - Entrevista: base/entrevista.md
-      - Pesquisa: base/pesquisa.md
-      - Brainstorm: base/Brainstorm.md
-      - Mapa Mental: base/mapa_mental.md
-      - Metodologia: base/metodologia.md
-      - Diagrama: base/diagrama.md
-      - Protótipo Alta Fidelidade: base/prototipo_alta_fidelidade.md
-  - Casos de Uso:
-      - CasoDeUso1: CasosDeUso/CasoDeUso1.md
-      - CasoDeUso2: CasosDeUso/CasoDeUso2.md
-      - CasoDeUso3: CasosDeUso/CasoDeUso3.md
-      - CasoDeUso4: CasosDeUso/CasoDeUso4.md
-  - Interação:
-      - Interação 1: interacao/interacao1.md
-  - Modelagem:
-      - DAS: modelagem/das.md
-      - Diagrama de Classes: modelagem/diagrama_de_classes.md
-      - MDE: modelagem/mde.mdpython -m mkdocs gh-deploy
 
-repo_url: https://github.com/Projetos-de-Extensao/PBE_25.1_8002_IV
-repo_name: PBE_25.1_8002_IV
-
-extra_css: []
-extra_javascript: []
+    accent: dark blue
