@@ -28,3 +28,9 @@ nav:
       - DAS: modelagem/das.md
       - Diagrama de Classes: modelagem/diagrama_de_classes.md
       - MDE: modelagem/mde.mdpython -m mkdocs gh-deploy
+
+repo_url: https://github.com/Projetos-de-Extensao/PBE_25.1_8002_IV
+repo_name: PBE_25.1_8002_IV
+
+extra_css: []
+extra_javascript: []
