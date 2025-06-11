@@ -1,5 +1,3 @@
-## Sobre 
-Markdown
 
 # Sobre o Projeto BackByte
 
