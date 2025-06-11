@@ -34,18 +34,18 @@ O desenvolvimento ocorrerá durante o primeiro semestre de 2025.
 
 ### Who? (Quem irá fazer?)
 A equipe de desenvolvimento é composta pelos seguintes alunos:
-* Augusto Amorim
-* Bernardo Ottan
-* Eduardo Andrade
-* Eduardo Jacob
-* Pedro Mynssen
-* Vitor Oliveira
+**Augusto Amorim**
+**Bernardo Ottan**
+**Eduardo Andrade**
+**Eduardo Jacob**
+**Pedro Mynssen**
+**Vitor Oliveira**
 
 ### How? (Como será feito?)
 O projeto seguirá a metodologia RUP/UP e utilizará as seguintes tecnologias:
-* **Linguagens:** Python com o framework Django.
-* **Documentação:** MkDocs.
-* **Controle de Versão:** Git e GitHub.
+ **Linguagens:** Python com o framework Django.
+ **Documentação:** MkDocs.
+ **Controle de Versão:** Git e GitHub.
 
 ### How Much? (Quanto custará?)
 O principal custo do projeto será o tempo e o esforço dedicados pela equipe de desenvolvimento.s
