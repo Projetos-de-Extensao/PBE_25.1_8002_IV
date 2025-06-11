@@ -20,8 +20,6 @@ Navegue pelas abas no topo para saber mais sobre o projeto e como instalá-lo.
 
 ## 5W2H
 
-|Questão|Resposta|
-|-------|--------|
 |What?(O que deverá ser feito?)|Aplicativo Web que auxilie a coleta de dados sobre a Ilha Primeira|
 |Why? (Por que isso será feito?)|Para auxiliar e trazer uma melhora na qualidade de vida dos moradores |
 |Where? (Onde será feito?)|O trabalho será realizado na Instituição IBMEC |
