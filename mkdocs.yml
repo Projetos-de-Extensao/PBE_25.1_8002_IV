@@ -23,7 +23,7 @@ theme:
 
 
 nav:
-  - 'Início': 'index.md'
+  - 'Início': 'Index.md'
   - 'Sobre o Projeto': 'sobre.md'
   - 'Guia de Instalação': 'instalacao.md'
   - 'Demonstração': 'demonstracao.md'
