@@ -2,7 +2,7 @@
 site_name: Documentação Grupo BackByte
 
 
-site_url: "https://projetos-de-extensao.github.io/PBE_25.1_8002_IV/mk"
+site_url: "https://projetos-de-extensao.github.io/PBE_25.1_8002_IV/"
 
 theme:
   name: material
