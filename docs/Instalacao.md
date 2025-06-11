@@ -7,16 +7,16 @@ Este guia descreve todos os passos necessários para configurar, executar e ente
 O desenvolvimento do projeto se baseia nas seguintes linguagens, frameworks e ferramentas:
 
 * **Linguagem e Framework Principal**
-    * [cite_start]**Python**: A linguagem de programação principal do projeto.
-    * [cite_start]**Django**: Framework web utilizado para construir a aplicação principal.
+    * **Python**: A linguagem de programação principal do projeto.
+    * **Django**: Framework web utilizado para construir a aplicação principal.
 
 * **Documentação**
-    * [cite_start]**MkDocs**: Ferramenta para gerar o site estático da documentação do projeto.
+    * **MkDocs**: Ferramenta para gerar o site estático da documentação do projeto.
     * **Material for MkDocs**: Tema utilizado para a aparência do site de documentação.
 
 * **Ferramentas e Versionamento**
-    * [cite_start]**Git & GitHub**: Sistema de controle de versão e plataforma de hospedagem do código-fonte.
-    * [cite_start]**Visual Studio Code**: Editor de código recomendado para o desenvolvimento.
+    * **Git & GitHub**: Sistema de controle de versão e plataforma de hospedagem do código-fonte.
+    * **Visual Studio Code**: Editor de código recomendado para o desenvolvimento.
 
 ---
 
