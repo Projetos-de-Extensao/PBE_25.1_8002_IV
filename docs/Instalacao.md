@@ -38,6 +38,13 @@ Siga as etapas abaixo para configurar o ambiente do projeto.
 
 Abra um terminal (ou Git Bash no Windows) e clone o repositório do projeto para sua máquina local.
 
-```bash
-git clone [https://github.com/projetos-de-extensao/PBE_25.1_8002_IV.git](https://github.com/projetos-de-extensao/PBE_25.1_8002_IV.git)
-cd PBE_25.1_8002_IV
+### 2. Criar e Ativar o Ambiente Virtual
+
+Para manter as dependências do projeto isoladas, crie e ative um ambiente virtual.
+
+### 3. Instalar as Dependências
+
+Com o ambiente virtual ativado, instale todos os pacotes necessários que estão listados no arquivo requirements.txt
+
+### 4. Executar o Servidor de Desenvolvimento
+O projeto utiliza o framework Django, para iniciar o servidor de desenvolvimento local.
