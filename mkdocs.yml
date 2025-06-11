@@ -26,3 +26,4 @@ nav:
   - 'Início': 'index.md'
   - 'Sobre o Projeto': 'sobre.md'
   - 'Guia de Instalação': 'instalacao.md'
+  - 'Guia de Uso': 'uso.md'
