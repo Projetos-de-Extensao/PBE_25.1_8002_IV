@@ -6,11 +6,11 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 202402818406|  Vitor Oliveira |
-| 202401000108  |  Pedro Mynssen |
-| 202401500267  |  Bernardo Ottan |
-| 202402824058 |  Eduardo Jacob |
-| 202307539767  |  Eduardo Andrade |
+| 202402818406|  Vitor Oliveira |
+| 202401000108  |  Pedro Mynssen |
+| 202401500267  |  Bernardo Ottan |
+| 202402824058 |  Eduardo Jacob |
+| 202307539767  |  Eduardo Andrade |
 |202051692553| Augusto Amorim |
 
 ## Sobre 

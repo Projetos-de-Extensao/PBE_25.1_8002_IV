@@ -1,1 +1,28 @@
+
 site_name: Documentação Grupo BackByte
+
+
+site_url: "https://projetos-de-extensao.github.io/PBE_25.1_8002_IV/mk"
+
+theme:
+  name: material
+  language: pt-BR  
+  palette:
+
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs       
+    - navigation.sections  
+    - toc.integrate         
+    - navigation.top        
+    - search.suggest        
+    - search.highlight      
+    - content.tabs.link     
+
+
+nav:
+  - 'Início': 'index.md'
+  - 'Sobre o Projeto': 'Sobre.md'
+  - 'Guia de Instalação': 'Instalacao.md'
