@@ -18,12 +18,34 @@ Navegue pelas abas no topo para saber mais sobre o projeto e como instalá-lo.
 | 202402824058 |  Eduardo Jacob |
 | 202307539767  |  Eduardo Andrade |
 
-## 5W2H
+## Planejamento 5W2H
 
-|What?(O que deverá ser feito?)|Aplicativo Web que auxilie a coleta de dados sobre a Ilha Primeira|
-|Why? (Por que isso será feito?)|Para auxiliar e trazer uma melhora na qualidade de vida dos moradores |
-|Where? (Onde será feito?)|O trabalho será realizado na Instituição IBMEC |
-|When? (Quando será feito?)|Durante o primeiro semestre de 2025 |
-|Who? (Quem irá fazer?)|A equipe é formada pelos alunos Bernardo Ottan, Eduardo Andrade, Eduardo Jacob, Pedro Mynssen, Vitor Oliveira|
-|How? (Como será feito?)|Utilizando metodologia RUP/UP e ferramentas como o python e django como linguagens, mkdocs para documentação, git e github para versionamento do código.|
-|How much? (Quanto custará?)|O custo do projeto será o tempo e esforço para o desenvolvimento da aplicação|
+### What? (O que será feito?)
+Um aplicativo Web com o objetivo de auxiliar na coleta de dados sobre a Ilha Primeira.
+
+### Why? (Por que será feito?)
+Para apoiar a comunidade e contribuir para a melhoria da qualidade de vida dos moradores locais.
+
+### Where? (Onde será feito?)
+O projeto será desenvolvido no âmbito da instituição de ensino IBMEC.
+
+### When? (Quando será feito?)
+O desenvolvimento ocorrerá durante o primeiro semestre de 2025.
+
+### Who? (Quem irá fazer?)
+A equipe de desenvolvimento é composta pelos seguintes alunos:
+* Augusto Amorim
+* Bernardo Ottan
+* Eduardo Andrade
+* Eduardo Jacob
+* Pedro Mynssen
+* Vitor Oliveira
+
+### How? (Como será feito?)
+O projeto seguirá a metodologia RUP/UP e utilizará as seguintes tecnologias:
+* **Linguagens:** Python com o framework Django.
+* **Documentação:** MkDocs.
+* **Controle de Versão:** Git e GitHub.
+
+### How Much? (Quanto custará?)
+O principal custo do projeto será o tempo e o esforço dedicados pela equipe de desenvolvimento.s
