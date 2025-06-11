@@ -19,7 +19,6 @@ Navegue pelas abas no topo para saber mais sobre o projeto e como instalá-lo.
 | 202307539767  |  Eduardo Andrade |
 
 ## 5W2H
-## Pedido 5W2H 
 
 |Questão|Resposta|
 |-------|--------|
