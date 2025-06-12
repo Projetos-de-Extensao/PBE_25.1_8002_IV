@@ -8,13 +8,9 @@
       
       
       
-        <link rel="canonical" href="https://projetos-de-extensao.github.io/PBE_25.1_8002_IV/demonstracao/">
+        <link rel="canonical" href="https://projetos-de-extensao.github.io/PBE_25.1_8002_IV/Instalacao/">
       
       
-        <link rel="prev" href="../instalacao/">
-      
-      
-        <link rel="next" href="../apresentacao/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -22,7 +18,7 @@
     
     
       
-        <title>Demonstração - Documentação Grupo BackByte</title>
+        <title>Guia de Instalação e Execução - Documentação Grupo BackByte</title>
       
     
     
@@ -72,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#demonstracao-do-projeto" class="md-skip">
+        <a href="#guia-de-instalacao-e-execucao" class="md-skip">
           Pular para conteúdo
         </a>
       
@@ -106,7 +102,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Demonstração
+              Guia de Instalação e Execução
             
           </span>
         </div>
@@ -200,7 +196,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../sobre/" class="md-tabs__link">
+      <a href="../sobre.md" class="md-tabs__link">
         
   
   
@@ -219,7 +215,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../instalacao/" class="md-tabs__link">
+      <a href="../instalacao.md" class="md-tabs__link">
         
   
   
@@ -236,11 +232,9 @@
   
   
   
-    
   
-  
-    <li class="md-tabs__item md-tabs__item--active">
-      <a href="./" class="md-tabs__link">
+    <li class="md-tabs__item">
+      <a href="../demonstracao.md" class="md-tabs__link">
         
   
   
@@ -336,7 +330,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../sobre/" class="md-nav__link">
+      <a href="../sobre.md" class="md-nav__link">
         
   
   
@@ -358,7 +352,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../instalacao/" class="md-nav__link">
+      <a href="../instalacao.md" class="md-nav__link">
         
   
   
@@ -377,19 +371,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../demonstracao.md" class="md-nav__link">
         
   
   
@@ -400,7 +385,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -443,10 +427,52 @@
 
 
 
-<h1 id="demonstracao-do-projeto">Demonstração do Projeto</h1>
-<p>Nesta seção, apresentamos um vídeo que demonstra as principais funcionalidades e o fluxo de uso do projeto BackByte.</p>
-<p>Assista abaixo para ver nossa aplicação em ação e entender como ela foi projetada para auxiliar na coleta de dados sobre a Ilha Primeira, visando a melhoria na qualidade de vida dos moradores.</p>
+<h1 id="guia-de-instalacao-e-execucao">Guia de Instalação e Execução</h1>
+<p>Este guia descreve todos os passos necessários para configurar, executar e entender as tecnologias do projeto <strong>BackByte</strong>.</p>
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+<p>O desenvolvimento do projeto se baseia nas seguintes linguagens, frameworks e ferramentas:</p>
+<ul>
+<li>
+<p><strong>Linguagem e Framework Principal</strong></p>
+<ul>
+<li><strong>Python</strong>: A linguagem de programação principal do projeto.</li>
+<li><strong>Django</strong>: Framework web utilizado para construir a aplicação principal.</li>
+</ul>
+</li>
+<li>
+<p><strong>Documentação</strong></p>
+<ul>
+<li><strong>MkDocs</strong>: Ferramenta para gerar o site estático da documentação do projeto.</li>
+<li><strong>Material for MkDocs</strong>: Tema utilizado para a aparência do site de documentação.</li>
+</ul>
+</li>
+<li>
+<p><strong>Ferramentas e Versionamento</strong></p>
+<ul>
+<li><strong>Git &amp; GitHub</strong>: Sistema de controle de versão e plataforma de hospedagem do código-fonte.</li>
+<li><strong>Visual Studio Code</strong>: Editor de código recomendado para o desenvolvimento.</li>
+</ul>
+</li>
+</ul>
 <hr />
+<h2 id="pre-requisitos">Pré-requisitos</h2>
+<p>Antes de começar, certifique-se de que seu sistema possui as seguintes ferramentas instaladas:</p>
+<ul>
+<li><strong>Python 3.x</strong></li>
+<li><strong>Git</strong></li>
+<li><strong>Pip</strong> (gerenciador de pacotes do Python)</li>
+</ul>
+<hr />
+<h2 id="manual-de-instalacao-passo-a-passo">Manual de Instalação Passo a Passo</h2>
+<p>Siga as etapas abaixo para configurar o ambiente do projeto.</p>
+<h3 id="1-clonar-o-repositorio">1. Clonar o Repositório</h3>
+<p>Abra um terminal (ou Git Bash no Windows) e clone o repositório do projeto para sua máquina local.</p>
+<h3 id="2-criar-e-ativar-o-ambiente-virtual">2. Criar e Ativar o Ambiente Virtual</h3>
+<p>Para manter as dependências do projeto isoladas, crie e ative um ambiente virtual.</p>
+<h3 id="3-instalar-as-dependencias">3. Instalar as Dependências</h3>
+<p>Com o ambiente virtual ativado, instale todos os pacotes necessários que estão listados no arquivo requirements.txt</p>
+<h3 id="4-executar-o-servidor-de-desenvolvimento">4. Executar o Servidor de Desenvolvimento</h3>
+<p>O projeto utiliza o framework Django, para iniciar o servidor de desenvolvimento local.</p>
 
 
 
