@@ -12,7 +12,7 @@ O desenvolvimento do projeto se baseia nas seguintes linguagens, frameworks e fe
 
 * **Documentação**
     * **MkDocs**: Ferramenta para gerar o site estático da documentação do projeto.
-    * **Material for MkDocs**: Tema utilizado para a aparência do site de documentação.
+    * **Material MkDocs**:Utilizado para a aparência do site de documentação.
 
 * **Ferramentas e Versionamento**
     * **Git & GitHub**: Sistema de controle de versão e plataforma de hospedagem do código-fonte.
