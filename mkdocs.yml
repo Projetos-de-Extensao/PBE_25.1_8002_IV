@@ -24,7 +24,6 @@ theme:
 
 nav:
   - 'Início': 'index.md'
-  - 'Sobre o Projeto': 'sobre.md'
-  - 'Guia de Instalação': 'instalacao.md'
-  - 'Demonstração': 'demonstracao.md'
-  - 'Apresentação do Projeto': 'apresentacao.md'
+  - 'Sobre o Projeto': 'Sobre.md'
+  - 'Guia de Instalação': 'Instalacao.md'
+  - 'Apresentação do Projeto': 'Apresentacao.md'
