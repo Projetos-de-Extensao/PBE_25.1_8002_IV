@@ -14,4 +14,4 @@ Para visualizar os slides da primeira etapa do projeto, clique no link abaixo:
 
 ## Apresentação AP2
 
-**[Clique aqui para acessar a apresentação de AP1 no Canva](https://www.canva.com/design/DAGqJc89-DQ/SB3YOFOVAr0YKejxytmOhg/edit?utm_content=DAGqJc89-DQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+**[Clique aqui para acessar a apresentação de AP2 no Canva](https://www.canva.com/design/DAGqJc89-DQ/SB3YOFOVAr0YKejxytmOhg/edit?utm_content=DAGqJc89-DQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
